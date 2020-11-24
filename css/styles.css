@@ -1,0 +1,53 @@
+img {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+  max-width: 500px;
+  border-radius: 5px;
+  padding: 30px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  background-color: white;
+  border: solid black 1px;
+  margin-top: 200px;
+}
+
+body {
+  /* border: 2px solid black; */
+  width: 90%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(239, 255, 255);
+}
+
+.info {
+  box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: white;
+  border-radius: 10px;
+  padding: 25px;
+  margin-left: 90px;
+  margin-top: 100px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+.checked {
+  color: orange;
+}
+
+.deets {
+  font-weight: 500;
+  margin-bottom: 75px;
+}
+
+p {
+  font-weight: 1px;
+}
+
+button {
+  background-color: gold;
+  border-radius: 8px;
+  font-style: bold;
+  font-weight: 600;
+  size: 60cm;
+}
