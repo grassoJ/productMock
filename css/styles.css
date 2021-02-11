@@ -1,11 +1,11 @@
 img {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
-  max-width: 35em;
   border-radius: 5px;
   padding: 3em;
   background-color: white;
   border: solid black 1px;
   margin-top: 11em;
+  width: 30rem;
 }
 
 body {
@@ -23,7 +23,7 @@ body {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 600;
-  max-width: 30em;
+  max-width: 30rem;
 }
 
 .checked {
