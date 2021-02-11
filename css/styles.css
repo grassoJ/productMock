@@ -14,8 +14,8 @@ body {
 }
 
 .info {
-  margin-left: 5em;
-  margin-top: 5em;
+  margin-left: 2em;
+  margin-top: 2em;
   box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.2);
   background-color: white;
   border-radius: 10px;
@@ -53,5 +53,5 @@ button {
 
 #buttons {
   margin-top: 3em;
-  margin-left: 7em;
+  margin-left: 1em;
 }
